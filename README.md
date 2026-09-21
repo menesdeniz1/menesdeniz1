@@ -4,9 +4,9 @@
 
 I build software end to end—from user interfaces and backend services to data processing, computer-vision workflows and hardware integration.
 
-My experience includes developing industrial inspection software used at factory sites, configuring cameras and imaging setups, and integrating inspection algorithms with PLC communication interfaces. My work spans the application, from the interface and data workflows to the inspection logic.
+My industrial work includes inspection software used at factory sites, camera and imaging configuration, and inspection algorithms integrated with PLC communication interfaces.
 
-Some of this industrial work is private. My public repositories cover independent applications, university projects, systems programming and game development.
+Alongside private industrial projects, I share independent applications, university projects and game-development experiments here.
 
 ## Selected projects
 
@@ -26,6 +26,4 @@ Some of this industrial work is private. My public repositories cover independen
 - [Reader–Writer Synchronization](https://github.com/menesdeniz1/reader-writer-problem): Java concurrency and semaphore-based synchronization.
 - [Temperature Sensor](https://github.com/menesdeniz1/temperature-sensor): embedded-systems coursework.
 
-My main interests are computer vision, applied machine learning and building complete applications around them. I also enjoy systems programming, automation and game development.
-
-Project READMEs provide setup instructions and distinguish independent applications, team coursework and learning forks. Archived repositories remain available as development history.
+I am especially interested in turning computer-vision and machine-learning ideas into practical applications. I also enjoy systems programming, automation and game development.
