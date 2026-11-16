@@ -19,5 +19,4 @@ I build production computer vision and industrial automation software in C++ and
 | [TravelPlan](https://github.com/menesdeniz1/travelplan) | Route and fare tracker for trips within Europe: combines flights with train and bus legs and ranks options by total cost and connection risk. Python, 2,200+ offline tests, CI on Ubuntu and Windows. |
 | [docwalk](https://github.com/menesdeniz1/docwalk) (contribution) | Pull request merged into a public Markdown-to-slides tool (TypeScript, React), adding presenter, focus-view and remote features. |
 | [Face-Mask Detection](https://github.com/menesdeniz1/face-mask-detection) | Team coursework comparing YOLOv8 and SSD object detectors. |
-
 | [rating-prediction](https://github.com/menesdeniz1/rating-prediction) | User-based collaborative filtering in C++ (Jaccard similarity) for movie rating prediction, with tests and CI. |
