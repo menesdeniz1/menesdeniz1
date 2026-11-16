@@ -20,5 +20,3 @@ I build production computer vision and industrial automation software in C++ and
 | [Tracker](https://github.com/menesdeniz1/tracker) | Telegram price bot run as a 24/7 service; self-updates on push, smoke-tests and rolls back to the last known-good version. |
 | [docwalk](https://github.com/menesdeniz1/docwalk) (contribution) | Pull request merged into a public Markdown-to-slides tool (TypeScript, React), adding presenter, focus-view and remote features. |
 | [Face-Mask Detection](https://github.com/menesdeniz1/face-mask-detection) | Team coursework comparing YOLOv8 and SSD object detectors. |
-
-I work with AI coding agents (Claude Code, Codex) and say so: I set the architecture, the test strategy and the acceptance criteria, and I am responsible for what ships.
